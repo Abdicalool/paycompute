@@ -5753,19 +5753,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MS Pro 4\\.nuget\\packages\\": {}
+    "C:\\Users\\cabdi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\Paycompute\\Paycompute.csproj",
+      "projectUniqueName": "C:\\project\\paycompute\\Paycompute\\Paycompute.csproj",
       "projectName": "Paycompute",
-      "projectPath": "C:\\Project\\Paycompute\\Paycompute.csproj",
-      "packagesPath": "C:\\Users\\MS Pro 4\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\Paycompute\\obj\\",
+      "projectPath": "C:\\project\\paycompute\\Paycompute\\Paycompute.csproj",
+      "packagesPath": "C:\\Users\\cabdi\\.nuget\\packages\\",
+      "outputPath": "C:\\project\\paycompute\\Paycompute\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MS Pro 4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cabdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5777,13 +5777,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Project\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Project\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\project\\paycompute\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\project\\paycompute\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "C:\\Project\\Paycompute.Services\\Paycompute.Services.csproj": {
-              "projectPath": "C:\\Project\\Paycompute.Services\\Paycompute.Services.csproj"
+            "C:\\project\\paycompute\\Paycompute.Services\\Paycompute.Services.csproj": {
+              "projectPath": "C:\\project\\paycompute\\Paycompute.Services\\Paycompute.Services.csproj"
             }
           }
         }
@@ -5796,7 +5795,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
@@ -5837,7 +5835,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

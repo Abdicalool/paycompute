@@ -10,8 +10,8 @@ using Paycompute.Persistence;
 namespace Paycompute.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210309145603_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20210311174212_InitalMigration")]
+    partial class InitalMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
