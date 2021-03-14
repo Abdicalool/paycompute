@@ -98,9 +98,6 @@ C:\Project\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.pdb
 C:\Project\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.genruntimeconfig.cache
 C:\project\paycompute\Paycompute\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\project\paycompute\Paycompute\bin\Debug\netcoreapp3.1\appsettings.json
-C:\project\paycompute\Paycompute\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\project\paycompute\Paycompute\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\project\paycompute\Paycompute\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\project\paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.StaticWebAssets.xml
 C:\project\paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.exe
 C:\project\paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.deps.json
@@ -196,3 +193,4 @@ C:\project\paycompute\Paycompute\obj\Debug\netcoreapp3.1\staticwebassets\Paycomp
 C:\project\paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.dll
 C:\project\paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.pdb
 C:\project\paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.genruntimeconfig.cache
+C:\project\paycompute\Paycompute\obj\Debug\netcoreapp3.1\scopedcss\bundle\Paycompute.styles.css
